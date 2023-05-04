@@ -1,0 +1,57 @@
+@font-face {
+font-family: 'Cera Pro';
+src: url('../fonts/CeraPro-Regular.eot');
+src: url('../fonts/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/CeraPro-Regular.woff') format('woff'),
+url('../fonts/CeraPro-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Cera Pro';
+src: url('../fonts/CeraPro-Light.eot');
+src: url('../fonts/CeraPro-Light.eot?#iefix') format('embedded-opentype'),
+url('../fonts/CeraPro-Light.woff') format('woff'),
+url('../fonts/CeraPro-Light.ttf') format('truetype');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'Cera Pro';
+src: url('../fonts/CeraPro-Medium.eot');
+src: url('../fonts/CeraPro-Medium.eot?#iefix') format('embedded-opentype'),
+url('../fonts/CeraPro-Medium.woff') format('woff'),
+url('../fonts/CeraPro-Medium.ttf') format('truetype');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'Cera Pro';
+src: url('../fonts/CeraPro-Bold.eot');
+src: url('../fonts/CeraPro-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/CeraPro-Bold.woff') format('woff'),
+url('../fonts/CeraPro-Bold.ttf') format('truetype');
+font-weight: 700;
+font-style: normal;
+}
+@font-face {
+font-family: 'Cera Pro';
+src: url('../fonts/CeraPro-Black.eot');
+src: url('../fonts/CeraPro-Black.eot?#iefix') format('embedded-opentype'),
+url('../fonts/CeraPro-Black.woff') format('woff'),
+url('../fonts/CeraPro-Black.ttf') format('truetype');
+font-weight: 900;
+font-style: normal;
+}
+@font-face {
+	font-family: "Days";
+	src: url("../fonts/days.eot"); /* IE9 Compat Modes */
+	src: url("../fonts/days.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("../fonts/days.otf") format("opentype"), /* Open Type Font */
+		url("../fonts/days.svg") format("svg"), /* Legacy iOS */
+		url("../fonts/days.ttf") format("truetype"), /* Safari, Android, iOS */
+		url("../fonts/days.woff") format("woff"), /* Modern Browsers */
+		url("../fonts/days.woff2") format("woff2"); /* Modern Browsers */
+	font-weight: normal;
+	font-style: normal;
+}
